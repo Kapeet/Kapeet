@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Kapeet, I make all sorts of cool things. 
+I mainly write in <img alt="JavaScript" width="26px" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/javascript.svg" /> and <img alt="TypeScript" width="26px" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/typescript.svg" />&nbsp;&nbsp;&nbsp;.
 <!--
 **Kapeet/Kapeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
